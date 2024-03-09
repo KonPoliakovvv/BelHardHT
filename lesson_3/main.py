@@ -11,6 +11,7 @@ print(third_character)
 print(third_character2)
 print(third_character3)
 
+
 some_str = "Hello, world!"
 new_str = some_str.replace("world", "Константин")
 print(new_str)
