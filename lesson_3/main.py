@@ -1,7 +1,7 @@
 firstname="Константин"
 lastname="Поляков"
 age="38"
-print(f"Привет, меня зовут {firstname} {lastname}, мне {38} лет")
+print(f"Привет, меня зовут {firstname} {lastname}, мне {age} лет")
 
 input_string=input("Введите строку: ")
 third_character=input_string[2]
